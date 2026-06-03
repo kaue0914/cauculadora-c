@@ -26,4 +26,4 @@ int main() {
     test_dividir();
     printf("Todos os testes passaram com sucesso!\n");
     return 0;
-}
+} printf( feito por kaue alexandre)

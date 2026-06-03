@@ -22,4 +22,4 @@ int dividir(int a, int b) {
     }
     return resultado;
 }
-printf( feito por kaue alexandre)
+printf("feito por kaue alexandre")

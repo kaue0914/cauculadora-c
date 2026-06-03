@@ -21,4 +21,4 @@ int dividir(int a, int b) {
         resultado++;
     }
     return resultado;
-}
+} printf( feito por kaue alexandre)
